@@ -64,11 +64,6 @@ app.get('/weather', (req,res)=>{
             })
         })
     })
-    // res.send({
-    //     forecast: 'It is snowing',
-    //     location: 'Dublin',
-    //     address: req.query.address
-    // })
 })
 
 app.get('/products',(req,res)=>{
