@@ -1,6 +1,6 @@
 # Weather Website
 
-This is a project where user can obtain the temperature and the humidity of a perticular location via https://ishani-weather-application.herokuapp.com/ website. It uses data from mapbox.com and weatherstack.com
+This is a project where user can obtain the temperature and the humidity of a perticular location via https://ishani-weather-application.herokuapp.com/ website. This Weather application interacts with the MapBox(mapbox.com) and Weatherstack(weatherstack.com) APIs. 
 
 ## Screenshots
 
@@ -38,4 +38,10 @@ Start the server
 ```bash
   npm run dev
 ```
+### Deployment
 
+To deploy this project run
+
+```bash
+  npm run start
+```
